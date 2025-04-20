@@ -3,8 +3,6 @@
 A simple yet fun Whack-a-Mole game built with **Java Swing**.  
 Track your **score**, aim for a new **high score**, and hit **reset** to play again!
 
----
-
 ## 🕹 Features
 
 - 🎯 Click moles to earn points
@@ -12,14 +10,10 @@ Track your **score**, aim for a new **high score**, and hit **reset** to play ag
 - 📈 High score tracking
 - 🔁 Reset button to start a new round
 
----
-
 ## 🛠 Tech Stack
 
 - Java
 - Swing (for GUI)
-
----
 
 ## 🚀 Getting Started
 
@@ -30,7 +24,7 @@ Track your **score**, aim for a new **high score**, and hit **reset** to play ag
 
 ## 📸
 
-![whack-a-mole](assets/whackamole.gif)
+![whack-a-mole](/src/whackamole/assets/whackamole.gif)
 
 ### To do
 
